@@ -1,5 +1,0 @@
-
-git add icons/spritesheet1.png
-git commit -m "initial commit"
-git push origin master
-
