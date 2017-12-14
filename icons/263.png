@@ -1,0 +1,11 @@
+--2017-12-08 14:45:23--  https://vignette.wikia.nocookie.net/pokemon/images/e/ea/263.png/revision/latest?cb=20131115074720
+Resolving vignette.wikia.nocookie.net (vignette.wikia.nocookie.net)... 74.120.184.204, 74.120.184.194
+Connecting to vignette.wikia.nocookie.net (vignette.wikia.nocookie.net)|74.120.184.204|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 982 [image/png]
+Saving to: ‘latest?cb=20131115074720’
+
+     0K                                                       100%  100M=0s
+
+2017-12-08 14:45:23 (100 MB/s) - ‘latest?cb=20131115074720’ saved [982/982]
+
